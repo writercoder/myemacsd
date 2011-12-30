@@ -4,3 +4,6 @@
 [submodule "vendor/coffee-mode"]
 	path = vendor/coffee-mode
 	url = git://github.com/defunkt/coffee-mode.git
+[submodule "vendor/jade-mode"]
+	path = vendor/jade-mode
+	url = git://github.com/brianc/jade-mode.git 
